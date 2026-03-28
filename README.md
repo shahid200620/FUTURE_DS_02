@@ -30,7 +30,7 @@
 
 ## 🚀 Live Dashboard
 
-👉 [View Live App](YOUR_STREAMLIT_LINK_HERE)
+👉https://futureds002.streamlit.app/
 
 ---
 
